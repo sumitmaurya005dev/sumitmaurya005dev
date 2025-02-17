@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Mern Stack
 - 💞️ I’m looking to collaborate on
-- 📫 How to reach me IG :_sumit_maurya_
+- 📫 How to reach me IG :underscore sumit_maurya underscore
 - 😄 Pronouns: H/Him
 - ⚡ Fun fact: ...
 
