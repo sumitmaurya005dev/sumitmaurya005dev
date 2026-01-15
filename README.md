@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sumitmaurya005dev
+- 👋 Hi, I’m Sumit K. Maurya
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Mern Stack
+- 🌱 I’m currently learning Mern Stack | Solana
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me IG :underscore sumit_maurya underscore
 - 😄 Pronouns: H/Him
